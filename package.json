@@ -1,0 +1,13 @@
+{
+    "name": "youtube-dl-api",
+    "version": "1.0.0",
+    "description": "API para descargar información de videos de YouTube",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "*",
+        "youtube-dl-exec": "*"
+    }
+}
